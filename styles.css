@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.countdown {
+    margin-top: 50px;
+}
+
+#timer {
+    font-size: 30px;
+}
+
+#fireworks {
+    display: none; /* Ocultamos los fuegos artificiales al principio */
+}
