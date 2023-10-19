@@ -23,3 +23,5 @@ function updateCountdown() {
 }
 
 const timerInterval = setInterval(updateCountdown, 1000);
+
+
